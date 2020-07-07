@@ -3928,20 +3928,6 @@ input, select, textarea {
 						font-weight: 900;
 					}
 
-					#titleBar .toggle:before {
-						background: #e44c65;
-						color: rgba(255, 255, 255, 0.5);
-						content: '\f0c9';
-						display: block;
-						font-size: 18px;
-						height: 44px;
-						left: 0;
-						line-height: 44px;
-						position: absolute;
-						text-align: center;
-						top: 0;
-						width: 54px;
-					}
 
 			#navPanel {
 				-moz-backface-visibility: hidden;
